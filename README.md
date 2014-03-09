@@ -1,4 +1,4 @@
 twitter-sentiment
 =================
 
-twitter-sentiment
+A twitter-sentiment analysis tool
